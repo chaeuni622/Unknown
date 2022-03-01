@@ -2,4 +2,4 @@
 
 ### 내가 들으려고 만든 사이트
 
-![localhost_(Pixel 3)](https://user-images.githubusercontent.com/92253365/156082668-799f4284-fcc9-4e28-8953-62f1bb7d6340.png)
+![localhost_](https://user-images.githubusercontent.com/92253365/156083036-309542ea-5565-464f-b4f7-f166e990a7d5.png)
