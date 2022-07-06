@@ -1,6 +1,6 @@
 # Unknown
 
-### ~~내가 들으려고 만든 React 사이트~~
+### ~~내가 들으려고 만든 음원 사이트 (삭제)~~
 
 ## 라이트 모드
 ![colv_light](https://user-images.githubusercontent.com/92253365/156083190-9b50dde2-7096-4204-ae5d-c19b46a31fd8.png)
